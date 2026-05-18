@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "meow412",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "meow412",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "PvpPractice412.aternos.me",
+    "port": 34816,
     "version": "",
     "try-creative": false
   },
