@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hairtail.aternos.host",
+    "ip": "damselfish.aternos.host",
     "port": 34816,
     "version": "",
     "try-creative": false
